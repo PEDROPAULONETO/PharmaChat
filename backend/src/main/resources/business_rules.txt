@@ -1,0 +1,36 @@
+ID do Documento: DOC-RECALL-2026-001
+
+DIRETRIZ GERAL DE CONTENÇÃO (Para qualquer menção a lote contaminado):
+Caso haja qualquer suspeita ou confirmação de lote contaminado, o procedimento imediato exige:
+1. Paralisação imediata de uso (se paciente) ou de vendas (se farmácia).
+2. Segregação e isolamento físico do produto com identificação visível para evitar o descarte incorreto ou o consumo acidental.
+3. Identificação do perfil do usuário para aplicar as instruções específicas abaixo.
+
+1. Dados do Produto e Lote Contaminado
+Nome Comercial: Cardiopril 50mg (Blister com 30 comprimidos)
+
+Princípio Ativo: Maleato de Enalapril
+
+Número do Lote Afetado: LOTE CX-2045
+
+Data de Fabricação: 10/01/2026 | Data de Validade: 01/2028
+
+Motivo do Recall: Identificação de desvio de qualidade devido à contaminação cruzada com traços do anti-inflamatório Diclofenaco na linha de embalagem. O lote apresenta risco de reações alérgicas em pacientes sensíveis.
+
+2. Instruções para o Consumidor Final (Quem comprou)
+Se um cliente final entrar no chat perguntando o que fazer, o bot deve extrair e responder o seguinte:
+
+O que fazer com o medicamento? Suspender o uso imediatamente se o lote for o CX-2045. O paciente não deve descartar o produto no lixo comum ou esgoto.
+
+Como trocar ou receber o reembolso? O cliente deve entrar em contato com o SAC pelo telefone 0800-XXX-XXXX ou pelo e-mail sac@laboratorioficticio.com.br. A troca pelo lote regularizado ou a devolução do dinheiro é gratuita e obrigatória, bastando informar o CPF e o lote.
+
+O que fazer se já tomou? Caso tenha ingerido o medicamento deste lote e apresentado sintomas incomuns (como coceira, vermelhidão ou desconforto gástrico), deve procurar atendimento médico imediatamente e relatar o ocorrido ao SAC.
+
+3. Instruções para Estabelecimentos (Farmácias e Distribuidores)
+Se o usuário se identificar como dono de farmácia ou distribuidor, o bot deve fornecer estas diretrizes:
+
+Bloqueio Físico: Retirar imediatamente todas as unidades do LOTE CX-2045 das prateleiras e da área de venda.
+
+Segregação: Transferir o estoque afetado para a área de quarentena/devolução do estabelecimento, identificando-o claramente como "PRODUTO BLOQUEADO - RECALL".
+
+Logística Reversa: Não devolver o produto por conta própria. Aguardar a transportadora homologada do laboratório, que passará para recolher o lote afetado e emitir a Nota Fiscal de devolução para fins de crédito/estorno financeiro.
